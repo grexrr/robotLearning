@@ -1,0 +1,17 @@
+# Python virtual environment
+venv/
+env/
+.env/
+.venv/
+
+# 其他常用的 Python 相关忽略
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+image/
+images/
+model/
+models/
